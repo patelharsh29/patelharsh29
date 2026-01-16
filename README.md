@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Harsh Patel
 
 Computer Science @ Toronto Metropolitan University (formerly Ryerson University)  
-Currently seeking Software Engineering Internships — **Summer & Fall 2026**
+Currently seeking **Summer & Fall 2026** Software Internships
 
 🚀 Seeking Opportunities & Areas of Interest
 - Backend & Software Engineering
