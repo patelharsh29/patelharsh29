@@ -3,8 +3,6 @@
 🎓 **Computer Science @ Toronto Metropolitan University**  
 🔎 Seeking **Software Engineering Internships — Summer & Fall 2026**
 
-💻 Interested in building **scalable systems** and **applied ML/AI products** with strong engineering fundamentals.
-
 ### 🚀 Areas of Interest
 - Backend & Software Engineering
 - Machine Learning & Applied AI
