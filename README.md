@@ -10,5 +10,5 @@ Currently seeking Software Engineering Internships — **Summer & Fall 2026**
 - Data Pipelines & Model Inference
 
 🤝 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/pateltharsh/
+- 💼 LinkedIn: https://www.linkedin.com/in/patellharsh/
 - 📧 Email: patelharsh092@gmail.com
