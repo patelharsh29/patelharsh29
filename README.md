@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Harsh Patel 👋
 
-<!--
-**patelharsh29/patelharsh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Science student at Toronto Metropolitan University, formerly Ryerson University, seeking **Software internship opportunities for Summer & Fall 2026**.
 
-Here are some ideas to get you started:
+I enjoy building **real-world systems** that combine strong engineering fundamentals with applied **AI/ML**, focusing on performance, scalability, and clean system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of Interest
+- Software Engineering & Backend Development  
+- Machine Learning & Applied AI  
+- Full-Stack Systems & APIs  
+- Data Pipelines and Model Inference Systems  
+
+### 📫 Connect with Me
+- **Email:** patelharsh0929@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/patellharsh/
