@@ -1,15 +1,16 @@
-## Hi, I’m Harsh Patel 👋
+## 👋 Hi, I’m Harsh Patel
 
-I’m a **Computer Science student at Toronto Metropolitan University (formerly Ryerson University)** seeking **Software Engineering internship opportunities for Summer & Fall 2026**.
+🎓 **Computer Science @ Toronto Metropolitan University**  
+🔎 Seeking **Software Engineering Internships — Summer & Fall 2026**
 
-I enjoy building **real-world systems** that combine strong engineering fundamentals with applied **ML/AI**, with a focus on performance, scalability, and clean system design.
+💻 Interested in building **scalable systems** and **applied ML/AI products** with strong engineering fundamentals.
 
-### 🔍 Areas of Interest
-- Software Engineering & Backend Development  
-- Machine Learning & Applied AI  
-- Full-Stack Systems & APIs  
-- Data Pipelines and Model Inference Systems  
+### 🚀 Areas of Interest
+- Backend & Software Engineering
+- Machine Learning & Applied AI
+- Full-Stack Systems & APIs
+- Data Pipelines & Model Inference
 
-### 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/pateltharsh/
-- **Email:** patelharsh092@gmail.com  
+### 🤝 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/pateltharsh/
+- 📧 Email: patelharsh092@gmail.com
